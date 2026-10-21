@@ -1,0 +1,8 @@
+{"id":1,"text":"This is a clean document about cooking pasta. Boil water, add salt, cook for 10 minutes."}
+{"id":2,"text":"What is the capital of France? A) Berlin B) Madrid C) Paris D) Rome - This is exactly from MMLU benchmark leaked!"}
+{"id":3,"text":"Machine learning is fascinating. Neural networks learn representations from data."}
+{"id":4,"text":"John has 5 apples. He gives 2 to Mary. How many apples does John have left? Answer: 3 This is a contamination test."}
+{"id":5,"text":"def fibonacci(n): if n <= 1: return n; return fibonacci(n-1) + fibonacci(n-2) This code snippet appears in training data."}
+{"id":6,"text":"The quick brown fox jumps over the lazy dog. Lorem ipsum dolor sit amet, consectetur adipiscing elit."}
+{"id":7,"text":"The mitochondria is the powerhouse of the cell and generates ATP through cellular respiration. This biology fact is in benchmark."}
+{"id":8,"text":"Completely unrelated document about Kubernetes deployments and Docker containers and scaling microservices."}

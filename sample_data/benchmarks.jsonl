@@ -1,0 +1,5 @@
+{"benchmark":"MMLU","text":"What is the capital of France? A) Berlin B) Madrid C) Paris D) Rome"}
+{"benchmark":"MMLU","text":"The mitochondria is the powerhouse of the cell and generates ATP through cellular respiration."}
+{"benchmark":"GSM8K","text":"John has 5 apples. He gives 2 to Mary. How many apples does John have left? Answer: 3"}
+{"benchmark":"HumanEval","text":"def fibonacci(n): if n <= 1: return n; return fibonacci(n-1) + fibonacci(n-2)"}
+{"benchmark":"GSM8K","text":"Solve: If a train travels 60 mph for 2 hours, how far does it go? Distance = speed * time = 120 miles"}
