@@ -1,6 +1,6 @@
 # Contamination Analysis — N-gram + Suffix Array (Go)
 
-PhD-grade implementation of LLM training data decontamination to prevent benchmark leakage (MMLU, GSM8K, HumanEval etc.).
+Implementation of LLM training data decontamination to prevent benchmark leakage (MMLU, GSM8K, HumanEval etc.).
 
 ## Objective Formalized
 ```
